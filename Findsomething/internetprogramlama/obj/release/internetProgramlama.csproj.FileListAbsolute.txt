@@ -1,0 +1,94 @@
+C:\Users\ASUS-PC\Desktop\findsmthson\internetProgramlama\bin\internetProgramlama.dll.config
+C:\Users\ASUS-PC\Desktop\findsmthson\internetProgramlama\bin\internetProgramlama.dll
+C:\Users\ASUS-PC\Desktop\findsmthson\internetProgramlama\bin\internetProgramlama.pdb
+C:\Users\ASUS-PC\Desktop\findsmthson\internetProgramlama\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ASUS-PC\Desktop\findsmthson\internetProgramlama\bin\System.Web.Helpers.dll
+C:\Users\ASUS-PC\Desktop\findsmthson\internetProgramlama\bin\System.Web.Mvc.dll
+C:\Users\ASUS-PC\Desktop\findsmthson\internetProgramlama\bin\System.Web.Razor.dll
+C:\Users\ASUS-PC\Desktop\findsmthson\internetProgramlama\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ASUS-PC\Desktop\findsmthson\internetProgramlama\bin\System.Web.WebPages.dll
+C:\Users\ASUS-PC\Desktop\findsmthson\internetProgramlama\bin\System.Web.WebPages.Razor.dll
+C:\Users\ASUS-PC\Desktop\findsmthson\internetProgramlama\bin\MySql.Data.xml
+C:\Users\ASUS-PC\Desktop\findsmthson\internetProgramlama\bin\System.Web.Helpers.xml
+C:\Users\ASUS-PC\Desktop\findsmthson\internetProgramlama\bin\System.Web.Mvc.xml
+C:\Users\ASUS-PC\Desktop\findsmthson\internetProgramlama\bin\System.Web.Razor.xml
+C:\Users\ASUS-PC\Desktop\findsmthson\internetProgramlama\bin\System.Web.WebPages.xml
+C:\Users\ASUS-PC\Desktop\findsmthson\internetProgramlama\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ASUS-PC\Desktop\findsmthson\internetProgramlama\bin\System.Web.WebPages.Razor.xml
+C:\Users\ASUS-PC\Desktop\findsmthson\internetProgramlama\bin\tr\System.Web.Helpers.resources.dll
+C:\Users\ASUS-PC\Desktop\findsmthson\internetProgramlama\bin\tr\System.Web.Mvc.resources.dll
+C:\Users\ASUS-PC\Desktop\findsmthson\internetProgramlama\bin\tr\System.Web.Razor.resources.dll
+C:\Users\ASUS-PC\Desktop\findsmthson\internetProgramlama\bin\tr\System.Web.WebPages.resources.dll
+C:\Users\ASUS-PC\Desktop\findsmthson\internetProgramlama\bin\tr\System.Web.WebPages.Deployment.resources.dll
+C:\Users\ASUS-PC\Desktop\findsmthson\internetProgramlama\bin\tr\System.Web.WebPages.Razor.resources.dll
+C:\Users\ASUS-PC\Desktop\findsmthson\internetProgramlama\obj\Release\internetProgramlama.csprojAssemblyReference.cache
+C:\Users\ASUS-PC\Desktop\findsmthson\internetProgramlama\obj\Release\internetProgramlama.csproj.CoreCompileInputs.cache
+C:\Users\ASUS-PC\Desktop\findsmthson\internetProgramlama\obj\Release\internetProgramlama.csproj.CopyComplete
+C:\Users\ASUS-PC\Desktop\findsmthson\internetProgramlama\obj\Release\internetProgramlama.dll
+C:\Users\ASUS-PC\Desktop\findsmthson\internetProgramlama\obj\Release\internetProgramlama.pdb
+C:\Users\ASUS-PC\Desktop\findsmthfoto\internetProgramlama\obj\Release\internetProgramlama.csprojAssemblyReference.cache
+C:\Users\ASUS-PC\Desktop\findsmthfoto\internetProgramlama\obj\Release\internetProgramlama.csproj.CoreCompileInputs.cache
+C:\Users\ASUS-PC\Desktop\findsmthfoto\internetProgramlama\obj\Release\internetProgramlama.dll
+C:\Users\ASUS-PC\Desktop\findsmthfoto\internetProgramlama\obj\Release\internetProgramlama.pdb
+C:\Users\ASUS-PC\Desktop\findsmthfoto\internetProgramlama\bin\internetProgramlama.dll.config
+C:\Users\ASUS-PC\Desktop\findsmthfoto\internetProgramlama\bin\internetProgramlama.dll
+C:\Users\ASUS-PC\Desktop\findsmthfoto\internetProgramlama\bin\internetProgramlama.pdb
+C:\Users\ASUS-PC\Desktop\findsmthfoto\internetProgramlama\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ASUS-PC\Desktop\findsmthfoto\internetProgramlama\bin\System.Web.Helpers.dll
+C:\Users\ASUS-PC\Desktop\findsmthfoto\internetProgramlama\bin\System.Web.Mvc.dll
+C:\Users\ASUS-PC\Desktop\findsmthfoto\internetProgramlama\bin\System.Web.Razor.dll
+C:\Users\ASUS-PC\Desktop\findsmthfoto\internetProgramlama\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ASUS-PC\Desktop\findsmthfoto\internetProgramlama\bin\System.Web.WebPages.dll
+C:\Users\ASUS-PC\Desktop\findsmthfoto\internetProgramlama\bin\System.Web.WebPages.Razor.dll
+C:\Users\ASUS-PC\Desktop\findsmthfoto\internetProgramlama\bin\MySql.Data.xml
+C:\Users\ASUS-PC\Desktop\findsmthfoto\internetProgramlama\bin\System.Web.Helpers.xml
+C:\Users\ASUS-PC\Desktop\findsmthfoto\internetProgramlama\bin\System.Web.Mvc.xml
+C:\Users\ASUS-PC\Desktop\findsmthfoto\internetProgramlama\bin\System.Web.Razor.xml
+C:\Users\ASUS-PC\Desktop\findsmthfoto\internetProgramlama\bin\System.Web.WebPages.xml
+C:\Users\ASUS-PC\Desktop\findsmthfoto\internetProgramlama\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ASUS-PC\Desktop\findsmthfoto\internetProgramlama\bin\System.Web.WebPages.Razor.xml
+C:\Users\ASUS-PC\Desktop\findsmthfoto\internetProgramlama\bin\tr\System.Web.Helpers.resources.dll
+C:\Users\ASUS-PC\Desktop\findsmthfoto\internetProgramlama\bin\tr\System.Web.Mvc.resources.dll
+C:\Users\ASUS-PC\Desktop\findsmthfoto\internetProgramlama\bin\tr\System.Web.Razor.resources.dll
+C:\Users\ASUS-PC\Desktop\findsmthfoto\internetProgramlama\bin\tr\System.Web.WebPages.resources.dll
+C:\Users\ASUS-PC\Desktop\findsmthfoto\internetProgramlama\bin\tr\System.Web.WebPages.Deployment.resources.dll
+C:\Users\ASUS-PC\Desktop\findsmthfoto\internetProgramlama\bin\tr\System.Web.WebPages.Razor.resources.dll
+C:\Users\ASUS-PC\Desktop\findsmthfoto\internetProgramlama\obj\Release\internetProgramlama.csproj.CopyComplete
+C:\Users\alp\Desktop\internet programlama\internetProgramlama\bin\internetProgramlama.dll.config
+C:\Users\alp\Desktop\internet programlama\internetProgramlama\bin\internetProgramlama.dll
+C:\Users\alp\Desktop\internet programlama\internetProgramlama\bin\internetProgramlama.pdb
+C:\Users\alp\Desktop\internet programlama\internetProgramlama\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\alp\Desktop\internet programlama\internetProgramlama\bin\MySql.Data.dll
+C:\Users\alp\Desktop\internet programlama\internetProgramlama\bin\System.Web.Helpers.dll
+C:\Users\alp\Desktop\internet programlama\internetProgramlama\bin\System.Web.Mvc.dll
+C:\Users\alp\Desktop\internet programlama\internetProgramlama\bin\System.Web.Razor.dll
+C:\Users\alp\Desktop\internet programlama\internetProgramlama\bin\System.Web.WebPages.Deployment.dll
+C:\Users\alp\Desktop\internet programlama\internetProgramlama\bin\System.Web.WebPages.dll
+C:\Users\alp\Desktop\internet programlama\internetProgramlama\bin\System.Web.WebPages.Razor.dll
+C:\Users\alp\Desktop\internet programlama\internetProgramlama\bin\Google.Protobuf.dll
+C:\Users\alp\Desktop\internet programlama\internetProgramlama\bin\MySql.Data.xml
+C:\Users\alp\Desktop\internet programlama\internetProgramlama\bin\System.Web.Helpers.xml
+C:\Users\alp\Desktop\internet programlama\internetProgramlama\bin\System.Web.Mvc.xml
+C:\Users\alp\Desktop\internet programlama\internetProgramlama\bin\System.Web.Razor.xml
+C:\Users\alp\Desktop\internet programlama\internetProgramlama\bin\System.Web.WebPages.xml
+C:\Users\alp\Desktop\internet programlama\internetProgramlama\bin\System.Web.WebPages.Deployment.xml
+C:\Users\alp\Desktop\internet programlama\internetProgramlama\bin\System.Web.WebPages.Razor.xml
+C:\Users\alp\Desktop\internet programlama\internetProgramlama\bin\tr\System.Web.Helpers.resources.dll
+C:\Users\alp\Desktop\internet programlama\internetProgramlama\bin\tr\System.Web.Mvc.resources.dll
+C:\Users\alp\Desktop\internet programlama\internetProgramlama\bin\tr\System.Web.Razor.resources.dll
+C:\Users\alp\Desktop\internet programlama\internetProgramlama\bin\tr\System.Web.WebPages.resources.dll
+C:\Users\alp\Desktop\internet programlama\internetProgramlama\bin\tr\System.Web.WebPages.Deployment.resources.dll
+C:\Users\alp\Desktop\internet programlama\internetProgramlama\bin\tr\System.Web.WebPages.Razor.resources.dll
+C:\Users\alp\Desktop\internet programlama\internetProgramlama\obj\Release\internetProgramlama.csprojAssemblyReference.cache
+C:\Users\alp\Desktop\internet programlama\internetProgramlama\obj\Release\internetProgramlama.csproj.CoreCompileInputs.cache
+C:\Users\alp\Desktop\internet programlama\internetProgramlama\obj\Release\internetProgramlama.csproj.CopyComplete
+C:\Users\alp\Desktop\internet programlama\internetProgramlama\obj\Release\internetProgramlama.dll
+C:\Users\alp\Desktop\internet programlama\internetProgramlama\obj\Release\internetProgramlama.pdb
+C:\Users\alp\Desktop\internet programlama\internetProgramlama\bin\Newtonsoft.Json.dll
+C:\Users\alp\Desktop\internet programlama\internetProgramlama\bin\System.Net.Http.Formatting.dll
+C:\Users\alp\Desktop\internet programlama\internetProgramlama\bin\System.Web.Http.dll
+C:\Users\alp\Desktop\internet programlama\internetProgramlama\bin\System.Web.Http.WebHost.dll
+C:\Users\alp\Desktop\internet programlama\internetProgramlama\bin\Newtonsoft.Json.xml
+C:\Users\alp\Desktop\internet programlama\internetProgramlama\bin\System.Net.Http.Formatting.xml
+C:\Users\alp\Desktop\internet programlama\internetProgramlama\bin\System.Web.Http.xml
+C:\Users\alp\Desktop\internet programlama\internetProgramlama\bin\System.Web.Http.WebHost.xml

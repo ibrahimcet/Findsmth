@@ -1,0 +1,99 @@
+body {
+    font-family: Arial;
+    font-size: 12px;
+}
+
+
+.genel {
+    height: 250px;
+    width: 50%;
+    float: left;
+    margin-left: 25%;
+    margin-top: 5%;
+    -webkit-box-shadow: 21px 26px 44px -4px rgba(0,0,0,0.51);
+    -moz-box-shadow: 21px 26px 44px -4px rgba(0,0,0,0.51);
+    box-shadow: 21px 26px 44px -4px rgba(0,0,0,0.51);
+    border-radius: 71px 14px 87px 0px;
+    -moz-border-radius: 71px 14px 87px 0px;
+    -webkit-border-radius: 71px 14px 87px 0px;
+    border: 1px solid #000000;
+}
+
+.genel-degil {
+    margin-top: 30px;
+    margin-left: 85px;
+}
+
+#urunAciklama {
+    border-bottom: double;
+    border-bottom-color: rgba(0,0,0,0.51);
+    -webkit-box-shadow: 21px 28px 44px -12px rgba(0,0,0,0.57);
+    -moz-box-shadow: 21px 28px 44px -12px rgba(0,0,0,0.57);
+    box-shadow: 21px 28px 44px -12px rgba(0,0,0,0.57);
+}
+
+#urunAciklama2 {
+    border-bottom: double;
+    border-bottom-color: rgba(0,0,0,0.51);
+    -webkit-box-shadow: 21px 28px 44px -12px rgba(0,0,0,0.57);
+    -moz-box-shadow: 21px 28px 44px -12px rgba(0,0,0,0.57);
+    box-shadow: 21px 28px 44px -12px rgba(0,0,0,0.57);
+}
+
+#urunAd {
+    border-bottom: double;
+    border-bottom-color: rgba(0,0,0,0.51);
+    -webkit-box-shadow: 21px 28px 44px -12px rgba(0,0,0,0.57);
+    -moz-box-shadow: 21px 28px 44px -12px rgba(0,0,0,0.57);
+    box-shadow: 21px 28px 44px -12px rgba(0,0,0,0.57);
+    ;
+}
+
+.login-button {
+    border-bottom: double;
+    border-bottom-color: #555555;
+    -webkit-box-shadow: 21px 28px 44px -12px rgba(0,0,0,0.57);
+    -moz-box-shadow: 21px 28px 44px -12px rgba(0,0,0,0.57);
+    box-shadow: 21px 28px 44px -12px rgba(0,0,0,0.57);
+    background-color: white;
+    color: black;
+}
+
+    .login-button:hover {
+        background-color: #555555;
+        color: white;
+    }
+
+#FileUploadControl {
+    color: black;
+}
+
+#mahalle {
+    -webkit-box-shadow: 21px 26px 44px -4px rgba(0,0,0,0.51);
+    -moz-box-shadow: 21px 26px 44px -4px rgba(0,0,0,0.51);
+    box-shadow: 21px 26px 44px -4px rgba(0,0,0,0.51);
+}
+
+#cadde {
+    -webkit-box-shadow: 21px 26px 44px -4px rgba(0,0,0,0.51);
+    -moz-box-shadow: 21px 26px 44px -4px rgba(0,0,0,0.51);
+    box-shadow: 21px 26px 44px -4px rgba(0,0,0,0.51);
+}
+
+#numara {
+    -webkit-box-shadow: 21px 26px 44px -4px rgba(0,0,0,0.51);
+    -moz-box-shadow: 21px 26px 44px -4px rgba(0,0,0,0.51);
+    box-shadow: 21px 26px 44px -4px rgba(0,0,0,0.51);
+}
+
+#sehir {
+    -webkit-box-shadow: 21px 26px 44px -4px rgba(0,0,0,0.51);
+    -moz-box-shadow: 21px 26px 44px -4px rgba(0,0,0,0.51);
+    box-shadow: 21px 26px 44px -4px rgba(0,0,0,0.51);
+}
+
+#ilce {
+    -webkit-box-shadow: 21px 26px 44px -4px rgba(0,0,0,0.51);
+    -moz-box-shadow: 21px 26px 44px -4px rgba(0,0,0,0.51);
+    box-shadow: 21px 26px 44px -4px rgba(0,0,0,0.51);
+}

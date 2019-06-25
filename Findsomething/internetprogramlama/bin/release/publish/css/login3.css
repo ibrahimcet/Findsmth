@@ -1,0 +1,125 @@
+﻿.genel-div {
+    width: 100%;
+    height: 755px;
+    position: fixed;
+}
+
+.giris-genel-div {
+    width: 70%;
+    height: 550px;
+    border: 1px solid grey;
+    border-radius: 5px;
+    position: relative;
+    margin: auto;
+    margin-top: 40px;
+}
+
+.giris-div {
+    width: 90%;
+    height: 92%;
+    position: absolute;
+    margin: 25px;
+}
+
+.img-logo-div {
+    width: 100%;
+    height: 110px;
+}
+
+.img-logo {
+    height: 100%;
+    width: 180px;
+    margin: auto;
+}
+
+.txt-img-div {
+    width: 80%;
+    height: 75%;
+    position: absolute;
+    margin-top: 10px;
+    margin-left: 45px;
+}
+
+.txt-div {
+    width: 100%;
+    height: 63%;
+    position: relative;
+}
+    /*.kadi-div{
+	margin-bottom: 10px: 
+	width: 90%;
+	height: 60px;
+}*/
+    .txt-div input {
+        width: 100%;
+        height: 60px;
+        font-size: 15px;
+        border: 1px solid black;
+        border-radius: 5px;
+        margin-top: 10px;
+    }
+/*.sifre-div{
+	margin-top: 10px;
+	width: 100%;
+	height: 60px;
+	position: absolute;
+	bottom: 0px;
+	border: 1px solid black;
+	border-radius: 5px;
+}*/
+
+.giris-buton {
+    width: 100%;
+    height: 100%;
+    border-radius: 8px;
+    border: 1px solid black;
+    position: absolute;
+    bottom: 0px;
+}
+
+.kayit-div {
+    width: 100%;
+    height: 40px;
+}
+
+    .kayit-div p {
+        text-align: center;
+        height: 100%;
+        padding-top: 6px;
+        font-size: 14px;
+    }
+
+.hesaplar-div {
+    width: 100%;
+    height: 30px;
+    position: relative;
+    margin: auto;
+    margin-top: 10px;
+}
+
+.hesaplar {
+    width: 150px;
+    height: 100%;
+    position: relative;
+    margin: auto;
+}
+
+    .hesaplar img {
+        margin-left: 30px;
+        width: 20%;
+        height: 100%;
+        float: left;
+        border-radius: 5px;
+    }
+
+@media only screen and (min-width: 342px) and (max-width: 960px) {
+    .giris-genel-div {
+        width: 100%;
+        height: 20%;
+        border: 1px solid black;
+        border-radius: 5px;
+        position: relative;
+        margin: auto;
+        margin-top: 10px;
+    }
+}

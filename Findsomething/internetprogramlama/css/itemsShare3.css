@@ -1,0 +1,190 @@
+﻿.urunaciklama-div {
+    border: 1px solid black;
+    width: 80%;
+    height: 80%;
+    position: relative;
+    margin: auto;
+    margin-top: 25px;
+    border-radius: 10px;
+}
+
+.urunaciklama-profil-div {
+    width: 248px;
+    height: 340px;
+    float: left;
+}
+
+.urunbegenme {
+    width: 70px;
+    height: 40px;
+    margin: auto;
+}
+
+    .urunbegenme button {
+        width: 100%;
+        height: 100%;
+    }
+.puanbuton {
+   
+    width: 100px;
+    height: 20px;
+}
+
+#puan {
+    width: 100px;
+    height: 30px;
+}
+
+.ua-profil {
+    width: 90%;
+    height: 85%;
+    position: relative;
+    margin: auto;
+    margin-top: 10px;
+}
+
+    .ua-profil img {
+        border: 1px solid black;
+        width: 200px;
+        height: 150px;
+        position: relative;
+        margin-left: 10px;
+        margin-top: 10px;
+        border-radius: 10px;
+    }
+
+    .ua-profil h2 {
+        text-align: center;
+        margin-top: 10px;
+        font-size: 18px;
+    }
+
+.ua-puan {
+    width: 20px;
+    
+    height: 50px;
+    
+    padding-left: 105px;
+}
+
+
+.urunaciklama {
+    width: 570px;
+    height: 300px;
+    float: left;
+}
+
+.urunaciklama-paragraf-div {
+    width: 90%;
+    height: 90%;
+    margin: auto;
+    margin-top: 17px;
+    border: 0.5px solid gray;
+    border-radius: 10px;
+}
+
+.urunaciklama p {
+    font-size: 15px;
+    padding: 10px;
+}
+
+.ua-yorumlar-div {
+    overflow-y: auto;
+    border-left: 1px solid black;
+    float: right;
+    width: 283px;
+    height: 100%;
+}
+
+.yorumlar-div {
+    margin: auto;
+    margin-top: 13px;
+    width: 95%;
+    height: 85%;
+}
+
+
+
+.yorumlar {
+    width: 100%;
+    height: 100px;
+    border-radius: 7px;
+    border: 0.5px solid black;
+    margin-top: 10px;
+}
+
+.yorumlar-kadi {
+    margin: 8px;
+}
+
+.yorum-text {
+    margin: 5px;
+}
+
+.yorum-buton {
+    width: 50px;
+    height: 25px;
+}
+
+.yorumyazma {
+    background-color: rebeccapurple;
+    position: absolute;
+    clear: left;
+    bottom: 5px;
+    left: 35%;
+    width: 300px;
+    height: 160px;
+}
+
+    .yorumyazma textarea {
+        width: 100%;
+        height: 100%;
+    }
+
+.konum-div {
+    position: absolute;
+    left: 10px;
+    width: 110px;
+    height: 100px;
+    clear: left;
+    bottom: 5px;
+}
+
+    .konum-div img {
+        width: 100%;
+        height: 100%;
+        border-radius: 10px;
+        border: 1px solid gray;
+    }
+
+.mesaj-div {
+    width: 80px;
+    height: 50px;
+    position: absolute;
+    float: right;
+    left: 150px;
+    bottom: 10px;
+}
+
+    .mesaj-div img {
+        border: 1px solid gray;
+        width: 100%;
+        height: 100%;
+        border-radius: 10px;
+    }
+
+
+.yorumyap {
+    width: 80px;
+    height: 50px;
+    position: absolute;
+    float: right;
+    right: 300px;
+    bottom: 10px;
+}
+
+    .yorumyap button {
+        width: 100%;
+        height: 100%;
+        border-radius: 10px;
+    }

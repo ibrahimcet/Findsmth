@@ -1,0 +1,69 @@
+﻿.share-genel-div {
+    width: 350px;
+    height: 450px;
+    position: relative;
+    margin: auto;
+    border: 0.5px dashed gray;
+}
+
+.share-txt-div {
+    position: relative;
+    margin: auto;
+    width: 90%;
+    height: 90%;
+    margin-top: 20px;
+}
+
+.urunadi {
+    width: 100%;
+    height: 50px;
+    background-color: white;
+}
+
+    .urunadi input {
+        width: 100%;
+        height: 100%;
+        text-align: center;
+        font-size: 17px;
+    }
+
+.dropdown {
+    margin-top: 20px;
+    width: 100%;
+    height: 50px;
+    background-color: white;
+}
+
+#items12 {
+    width: 100%;
+    height: 100%;
+    font-size: 17px;
+    padding-left: 105px;
+}
+
+.urunaciklama {
+    margin-top: 20px;
+    width: 100%;
+    height: 200px;
+    background-color: white;
+}
+
+#urunAciklama {
+    width: 100%;
+    height: 100%;
+    font-size: 13px;
+}
+
+.buton {
+    margin-top: 15px;
+    width: 100%;
+    height: 50px;
+    background-color: white;
+}
+
+#btnAdd {
+    width: 100%;
+    height: 100%;
+    border: 0.5px solid black;
+    border-radius: 4px;
+}

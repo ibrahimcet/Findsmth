@@ -1,0 +1,18 @@
+﻿.spaceHolder{
+    width:80%;
+    height:600px;
+    background-color:black;
+
+}
+
+.normal-div{
+    height:500px;
+    width:300px;
+    background-color:red;
+    margin:auto;
+    margin-top:50px;
+}
+.normal-holder{
+    width:100%;
+    margin-top:90px;
+}

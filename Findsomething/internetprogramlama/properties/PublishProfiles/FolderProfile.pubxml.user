@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Bu dosya, Web projenizin yayımlama/paket işlemi tarafından kullanılıyor. MSBuild dosyasını düzenleyerek
+bu işlemin davranışını düzenleyebilirsiniz. Bununla ilgili daha fazla bilgi edinmek için https://go.microsoft.com/fwlink/?LinkID=208121 adresini ziyaret edin. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>C:\Users\alp\Desktop\internet programlama\internetProgramlama\bin\Release\Publish</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="background.jpeg">
+      <publishTime>12/28/2018 15:01:05</publishTime>
+    </File>
+    <File Include="background.png">
+      <publishTime>12/28/2018 15:01:05</publishTime>
+    </File>
+    <File Include="bin/Google.Protobuf.dll">
+      <publishTime>12/21/2017 21:23:44</publishTime>
+    </File>
+    <File Include="bin/internetProgramlama.dll">
+      <publishTime>01/07/2019 19:22:39</publishTime>
+    </File>
+    <File Include="bin/internetProgramlama.pdb">
+      <publishTime>01/07/2019 19:22:39</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Web.Infrastructure.dll">
+      <publishTime>07/25/2012 10:48:56</publishTime>
+    </File>
+    <File Include="bin/MySql.Data.dll">
+      <publishTime>09/26/2018 08:42:24</publishTime>
+    </File>
+    <File Include="bin/Newtonsoft.Json.dll">
+      <publishTime>02/18/2018 12:44:54</publishTime>
+    </File>
+    <File Include="bin/System.Net.Http.Formatting.dll">
+      <publishTime>01/02/2018 15:17:18</publishTime>
+    </File>
+    <File Include="bin/System.Web.Helpers.dll">
+      <publishTime>02/01/2018 12:20:56</publishTime>
+    </File>
+    <File Include="bin/System.Web.Http.dll">
+      <publishTime>01/02/2018 15:17:40</publishTime>
+    </File>
+    <File Include="bin/System.Web.Http.WebHost.dll">
+      <publishTime>01/02/2018 15:19:26</publishTime>
+    </File>
+    <File Include="bin/System.Web.Mvc.dll">
+      <publishTime>02/01/2018 12:16:32</publishTime>
+    </File>
+    <File Include="bin/System.Web.Razor.dll">
+      <publishTime>02/01/2018 12:16:56</publishTime>
+    </File>
+    <File Include="bin/System.Web.WebPages.Deployment.dll">
+      <publishTime>02/01/2018 12:20:56</publishTime>
+    </File>
+    <File Include="bin/System.Web.WebPages.dll">
+      <publishTime>02/01/2018 12:20:56</publishTime>
+    </File>
+    <File Include="bin/System.Web.WebPages.Razor.dll">
+      <publishTime>02/01/2018 12:20:56</publishTime>
+    </File>
+    <File Include="bin/tr/System.Web.Helpers.resources.dll">
+      <publishTime>02/01/2018 12:21:18</publishTime>
+    </File>
+    <File Include="bin/tr/System.Web.Mvc.resources.dll">
+      <publishTime>02/01/2018 12:16:54</publishTime>
+    </File>
+    <File Include="bin/tr/System.Web.Razor.resources.dll">
+      <publishTime>02/01/2018 12:17:16</publishTime>
+    </File>
+    <File Include="bin/tr/System.Web.WebPages.Deployment.resources.dll">
+      <publishTime>02/01/2018 12:21:18</publishTime>
+    </File>
+    <File Include="bin/tr/System.Web.WebPages.Razor.resources.dll">
+      <publishTime>02/01/2018 12:21:18</publishTime>
+    </File>
+    <File Include="bin/tr/System.Web.WebPages.resources.dll">
+      <publishTime>02/01/2018 12:21:18</publishTime>
+    </File>
+    <File Include="category.css">
+      <publishTime>12/20/2018 19:22:11</publishTime>
+    </File>
+    <File Include="content.css">
+      <publishTime>12/20/2018 19:20:08</publishTime>
+    </File>
+    <File Include="Content/bootstrap-theme.css">
+      <publishTime>12/09/2018 15:51:28</publishTime>
+    </File>
+    <File Include="Content/bootstrap-theme.css.map">
+      <publishTime>12/09/2018 15:51:28</publishTime>
+    </File>
+    <File Include="Content/bootstrap-theme.min.css">
+      <publishTime>12/09/2018 15:51:28</publishTime>
+    </File>
+    <File Include="Content/bootstrap-theme.min.css.map">
+      <publishTime>12/09/2018 15:51:28</publishTime>
+    </File>
+    <File Include="Content/bootstrap.css">
+      <publishTime>12/09/2018 15:51:28</publishTime>
+    </File>
+    <File Include="Content/bootstrap.css.map">
+      <publishTime>12/09/2018 15:51:28</publishTime>
+    </File>
+    <File Include="Content/bootstrap.min.css">
+      <publishTime>12/09/2018 15:51:28</publishTime>
+    </File>
+    <File Include="Content/bootstrap.min.css.map">
+      <publishTime>12/09/2018 15:51:28</publishTime>
+    </File>
+    <File Include="Content/Site.css">
+      <publishTime>12/09/2018 15:51:28</publishTime>
+    </File>
+    <File Include="css/addingPannel.css">
+      <publishTime>12/23/2018 17:43:12</publishTime>
+    </File>
+    <File Include="css/category.css">
+      <publishTime>12/23/2018 17:43:12</publishTime>
+    </File>
+    <File Include="css/category2.css">
+      <publishTime>12/28/2018 00:49:11</publishTime>
+    </File>
+    <File Include="css/content.css">
+      <publishTime>12/23/2018 17:43:13</publishTime>
+    </File>
+    <File Include="css/content2.css">
+      <publishTime>12/23/2018 17:43:13</publishTime>
+    </File>
+    <File Include="css/content3.css">
+      <publishTime>01/03/2019 22:43:09</publishTime>
+    </File>
+    <File Include="css/delete.css">
+      <publishTime>01/07/2019 00:04:14</publishTime>
+    </File>
+    <File Include="css/giris.css">
+      <publishTime>12/28/2018 15:14:32</publishTime>
+    </File>
+    <File Include="css/hakkimizda.css">
+      <publishTime>12/23/2018 17:43:12</publishTime>
+    </File>
+    <File Include="css/instagram-brands.svg">
+      <publishTime>12/23/2018 17:43:12</publishTime>
+    </File>
+    <File Include="css/itemsShare.css">
+      <publishTime>12/23/2018 17:43:12</publishTime>
+    </File>
+    <File Include="css/itemsShare2.css">
+      <publishTime>12/23/2018 17:43:12</publishTime>
+    </File>
+    <File Include="css/itemsShare3.css">
+      <publishTime>12/23/2018 17:43:12</publishTime>
+    </File>
+    <File Include="css/itemsShare4.css">
+      <publishTime>12/23/2018 17:43:12</publishTime>
+    </File>
+    <File Include="css/itemsShare5.css">
+      <publishTime>01/05/2019 16:49:36</publishTime>
+    </File>
+    <File Include="css/itemupdatenew.css">
+      <publishTime>01/06/2019 23:18:38</publishTime>
+    </File>
+    <File Include="css/kayit.css">
+      <publishTime>01/07/2019 00:33:59</publishTime>
+    </File>
+    <File Include="css/login.css">
+      <publishTime>12/10/2018 23:46:58</publishTime>
+    </File>
+    <File Include="css/login2.css">
+      <publishTime>12/23/2018 17:43:13</publishTime>
+    </File>
+    <File Include="css/login3.css">
+      <publishTime>12/23/2018 17:43:13</publishTime>
+    </File>
+    <File Include="css/main.css">
+      <publishTime>12/23/2018 17:43:12</publishTime>
+    </File>
+    <File Include="css/mainkategorilink.css">
+      <publishTime>12/23/2018 17:43:12</publishTime>
+    </File>
+    <File Include="css/mesajPanel.css">
+      <publishTime>01/06/2019 22:57:29</publishTime>
+    </File>
+    <File Include="css/mesajPanel2.css">
+      <publishTime>12/23/2018 17:43:13</publishTime>
+    </File>
+    <File Include="css/prflgncl.css">
+      <publishTime>12/23/2018 17:43:12</publishTime>
+    </File>
+    <File Include="css/profilguncelle.css">
+      <publishTime>01/06/2019 23:30:30</publishTime>
+    </File>
+    <File Include="css/register.css">
+      <publishTime>12/10/2018 15:20:30</publishTime>
+    </File>
+    <File Include="css/register3.css">
+      <publishTime>12/23/2018 17:43:12</publishTime>
+    </File>
+    <File Include="css/share.css">
+      <publishTime>12/23/2018 17:43:12</publishTime>
+    </File>
+    <File Include="css/share2.css">
+      <publishTime>12/23/2018 17:43:12</publishTime>
+    </File>
+    <File Include="css/Share3.css">
+      <publishTime>12/23/2018 17:43:12</publishTime>
+    </File>
+    <File Include="css/sharenew.css">
+      <publishTime>01/06/2019 23:27:19</publishTime>
+    </File>
+    <File Include="css/support.css">
+      <publishTime>12/23/2018 17:43:12</publishTime>
+    </File>
+    <File Include="css/support2.css">
+      <publishTime>12/28/2018 14:25:43</publishTime>
+    </File>
+    <File Include="css/urunguncelle.css">
+      <publishTime>12/23/2018 17:43:12</publishTime>
+    </File>
+    <File Include="css/yorumlar.css">
+      <publishTime>01/06/2019 23:23:43</publishTime>
+    </File>
+    <File Include="delete.aspx">
+      <publishTime>01/07/2019 00:44:05</publishTime>
+    </File>
+    <File Include="FacebookLogin.html">
+      <publishTime>12/28/2018 22:06:31</publishTime>
+    </File>
+    <File Include="GoogleLogin.html">
+      <publishTime>12/28/2018 22:07:38</publishTime>
+    </File>
+    <File Include="homepage.aspx">
+      <publishTime>01/07/2019 00:44:15</publishTime>
+    </File>
+    <File Include="images/bck.jpeg">
+      <publishTime>01/04/2019 20:07:09</publishTime>
+    </File>
+    <File Include="images/classicUser.png">
+      <publishTime>12/10/2018 00:47:34</publishTime>
+    </File>
+    <File Include="images/face.png">
+      <publishTime>12/08/2018 13:21:12</publishTime>
+    </File>
+    <File Include="images/facebook.png">
+      <publishTime>12/28/2018 22:09:24</publishTime>
+    </File>
+    <File Include="images/google.png">
+      <publishTime>12/28/2018 22:09:24</publishTime>
+    </File>
+    <File Include="images/instagram.jpg">
+      <publishTime>12/21/2018 20:10:38</publishTime>
+    </File>
+    <File Include="images/logo3.png">
+      <publishTime>12/08/2018 13:21:20</publishTime>
+    </File>
+    <File Include="images/logo4.png">
+      <publishTime>12/28/2018 15:00:10</publishTime>
+    </File>
+    <File Include="images/orman.jpg">
+      <publishTime>01/06/2019 23:19:35</publishTime>
+    </File>
+    <File Include="images/sunrise.jpg">
+      <publishTime>01/06/2019 23:24:13</publishTime>
+    </File>
+    <File Include="items.aspx">
+      <publishTime>01/07/2019 00:44:23</publishTime>
+    </File>
+    <File Include="itemupdate.aspx">
+      <publishTime>01/07/2019 00:44:33</publishTime>
+    </File>
+    <File Include="login.aspx">
+      <publishTime>12/28/2018 22:10:29</publishTime>
+    </File>
+    <File Include="messages.aspx">
+      <publishTime>01/07/2019 00:44:43</publishTime>
+    </File>
+    <File Include="profile.aspx">
+      <publishTime>01/07/2019 00:44:54</publishTime>
+    </File>
+    <File Include="register.aspx">
+      <publishTime>01/07/2019 00:28:39</publishTime>
+    </File>
+    <File Include="search.aspx">
+      <publishTime>01/07/2019 00:45:09</publishTime>
+    </File>
+    <File Include="searchuser.aspx">
+      <publishTime>01/07/2019 00:45:17</publishTime>
+    </File>
+    <File Include="share.aspx">
+      <publishTime>01/07/2019 00:45:25</publishTime>
+    </File>
+    <File Include="update.aspx">
+      <publishTime>01/07/2019 00:46:02</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>01/07/2019 19:15:21</publishTime>
+    </File>
+    <File Include="yorum.aspx">
+      <publishTime>01/07/2019 00:45:57</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

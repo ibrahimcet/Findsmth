@@ -1,0 +1,128 @@
+.genel-div{
+	width: 100%;
+	height: 755px;
+	position: fixed;
+}
+.giris-genel-div{
+	width: 500px;
+	height: 600px;
+	border: 1px solid black;
+	border-radius: 5px;
+	position: relative;
+	margin: auto;
+	margin-top: 40px;
+	background: rgba(7, 9, 10, 0.61);
+}
+.giris-div{
+	width: 90%;
+	height: 92%;
+	position: absolute;
+	margin: 25px;
+	
+}
+.img-logo-div{
+}
+.img-logo{
+	height: 100%;
+	width: 180px;
+	margin: auto;
+}
+.txt-img-div{
+	width: 80%;
+	height: 65%;
+	position: absolute;
+	margin: 27px;
+	margin-left: 45px;
+}
+.txt-div{
+	width: 100%;
+	height: 40%;
+	margin-top: 30px;
+	position: relative;
+	
+}
+/*.kadi-div{
+	margin-bottom: 10px: 
+	width: 90%;
+	height: 60px;
+}*/
+.txt-div input{
+	width: 100%;
+	height: 45px;
+	font-size: 15px;
+	border: 2px solid #986a6a;
+	border-radius: 25px;
+	text-align: center;
+	background: rgba(14, 73, 69, 0.48);
+    color:white;
+}
+#sifre{
+	position: absolute;
+	margin-top: 30px;
+}
+/*.sifre-div{
+	margin-top: 10px;
+	width: 100%;
+	height: 60px;
+	position: absolute;
+	bottom: 0px;
+	border: 1px solid black;
+	border-radius: 5px;
+}*/
+.giris-buton-div{
+	width: 360px;
+	height: 45px;
+	position: absolute;
+	right: 0px;
+	margin-top: 10px;
+}
+.giris-buton{
+	background-color: rgb(220,220,220);
+	width: 100%;
+	height: 100%;
+	border-radius: 8px;
+	border: 1px solid #2b1414;
+	background: rgba(62,87,65,0.51);
+	color: white
+}
+
+.giris-buton:hover{
+	background-color: #000;
+	color: #fff;
+}
+.kayit-div{
+	width: 100%;
+	height: 40px;
+	
+	margin-top: 80px;
+}
+.kayit-div p{
+	text-align: center;
+	color: #c56b6b;
+	height: 100%;
+	padding-top: 6px;
+
+}
+.hesaplar-div{
+	width: 100%;
+	height: 30px;
+	
+	position: relative;
+	margin: auto;
+	margin-top: 10px;
+}
+.hesaplar{
+	width: 150px;
+	height: 100%;
+	
+	position: relative;
+	margin: auto;
+}
+
+.hesaplar img{
+	margin-left: 30px;
+	width: 20%;
+	height: 100%;
+	float: left;
+	border-radius: 5px;
+}

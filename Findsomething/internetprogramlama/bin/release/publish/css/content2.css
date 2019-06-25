@@ -1,0 +1,136 @@
+﻿.body {
+    position: fixed;
+}
+
+
+
+.p-genel-div {
+    width: 100%;
+    height: 100%;
+}
+
+.pp {
+    width: 95%;
+    height: 90%;
+    margin-top: 50px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+
+tr {
+    float: left;
+}
+
+#btn_add {
+    width: 30px;
+    height: 20px;
+    border-radius: 20px;
+    border: 1px solid black;
+    background-color: rgba(0,0,0,0.1);
+    position: absolute;
+    right: 5px;
+    bottom: 25px;
+    position: fixed;
+}
+
+.paylasimlar-genel-div {
+    width: 250px;
+    height: 300px;
+    position: relative;
+    margin: auto;
+    margin-top: 25px;
+    margin-left: 80px;
+    float: left;
+    border: 0.5px solid black;
+    border-radius: 10px;
+}
+
+.paylasimlar-div {
+    position: relative;
+    margin: auto;
+    width: 99.2%;
+    height: 100%;
+}
+
+.p-kadi {
+    width: 100%;
+    height: 10%;
+    border-bottom: 0.5px solid gray;
+    position: relative;
+    margin: auto;
+}
+
+.p-h1 {
+    text-align: center;
+    width: 100%;
+    height: 100%;
+    font-size: 16px;
+    color: #452222;
+}
+
+.p-foto {
+    width: 100%;
+    height: 75%;
+    border-bottom: 0.5px solid gray;
+}
+
+.p-puanlama {
+    width: 100%;
+    height: 15%;
+}
+
+.foto {
+    width: 100%;
+    height: 60%;
+    border-bottom: 0.5px solid gray;
+}
+
+    .foto img {
+        margin-left: 25px;
+        margin-top: 5px;
+        width: 90%;
+        height: 90%;
+        border-radius: 10px;
+    }
+
+.aciklama {
+    width: 100%;
+    height: 50%;
+    position: relative;
+    margin: auto;
+    padding-top: 10px;
+    padding-left: 15px;
+}
+
+.aciklama-div {
+    width: 95%;
+    height: 90%;
+    padding: 10px;
+}
+
+.profil-paylasim-div {
+    width: 100%;
+    height: 100%;
+}
+
+p {
+    color: black;
+    font-size: 12px;
+}
+
+.mainbottom {
+    position: relative;
+    z-index: 1;
+}
+
+.login-button {
+    width: 60px;
+    border-radius: 5px;
+    border: 0.5px solid darkblue;
+    background-color: black;
+    color: white;
+}
+
+.footer-yazi {
+    margin-left: 50px;
+}

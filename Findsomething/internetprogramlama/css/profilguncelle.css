@@ -1,0 +1,154 @@
+.body {
+    background-image: url(/images/yol.jpg);
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-position: right;
+}
+.kgenel-div {
+    width: 100%;
+    height: 755px;
+    background-color: rgb(240,240,240);
+    position: fixed;
+}
+
+.kayit-genel-div {
+    width: 500px;
+    height: 550px;
+    border-radius: 5px;
+    position: relative;
+    margin: auto;
+    margin-top: 60px;
+
+    background-color: white;
+    -webkit-box-shadow: 21px 26px 44px -4px rgba(0,0,0,0.51);
+    -moz-box-shadow: 21px 26px 44px -4px rgba(0,0,0,0.51);
+    box-shadow: 21px 26px 44px -4px rgba(0,0,0,0.51);
+    border-radius: 71px 14px 87px 0px;
+    -moz-border-radius: 71px 14px 87px 0px;
+    -webkit-border-radius: 71px 14px 87px 0px;
+    border: 1px solid #000000;
+}
+
+.kayit-div {
+    width: 90%;
+    height: 92%;
+    position: absolute;
+    margin: 25px;
+    margin-top: 100px;
+}
+
+.txt-div {
+    width: 80%;
+    height: 80%;
+    position: absolute;
+    margin: 5px;
+    margin-left: 45px;
+}
+
+.txt-form-div {
+    width: 100%;
+    height: 85%;
+    position: relative;
+}
+
+    .txt-form-div input {
+        width: 100%;
+        height: 38px;
+        font-size: 15px;
+        border: 1px solid black;
+        border-radius: 5px;
+        margin-top: 12px;
+        -webkit-box-shadow: 21px 26px 44px -4px rgba(0,0,0,0.51);
+        -moz-box-shadow: 21px 26px 44px -4px rgba(0,0,0,0.51);
+        box-shadow: 21px 26px 44px -4px rgba(0,0,0,0.51);
+        border-radius: 71px 14px 87px 0px;
+        -moz-border-radius: 71px 14px 87px 0px;
+        -webkit-border-radius: 71px 14px 87px 0px;
+        border: 1px solid #000000;
+        background-color: white;
+    }
+
+
+#sifre {
+    -webkit-box-shadow: 21px 26px 44px -4px rgba(0,0,0,0.51);
+    -moz-box-shadow: 21px 26px 44px -4px rgba(0,0,0,0.51);
+    box-shadow: 21px 26px 44px -4px rgba(0,0,0,0.51);
+    border: 2px solid #986a6a;
+    border-radius: 25px;
+    text-align: center;
+    background: rgba(14, 73, 69, 0.48);
+    color: white;
+}
+#mail {
+    -webkit-box-shadow: 21px 26px 44px -4px rgba(0,0,0,0.51);
+    -moz-box-shadow: 21px 26px 44px -4px rgba(0,0,0,0.51);
+    box-shadow: 21px 26px 44px -4px rgba(0,0,0,0.51);
+    border: 2px solid #986a6a;
+    border-radius: 25px;
+    text-align: center;
+    background: rgba(14, 73, 69, 0.48);
+    color: white;
+}
+#tel {
+    -webkit-box-shadow: 21px 26px 44px -4px rgba(0,0,0,0.51);
+    -moz-box-shadow: 21px 26px 44px -4px rgba(0,0,0,0.51);
+    box-shadow: 21px 26px 44px -4px rgba(0,0,0,0.51);
+    border: 2px solid #986a6a;
+    border-radius: 25px;
+    text-align: center;
+    background: rgba(14, 73, 69, 0.48);
+    color: white;
+}
+#sehir {
+    -webkit-box-shadow: 21px 26px 44px -4px rgba(0,0,0,0.51);
+    -moz-box-shadow: 21px 26px 44px -4px rgba(0,0,0,0.51);
+    box-shadow: 21px 26px 44px -4px rgba(0,0,0,0.51);
+    border: 2px solid #986a6a;
+    border-radius: 25px;
+    text-align: center;
+    background: rgba(14, 73, 69, 0.48);
+    color: white;
+}
+#FileUploadControl {
+    -webkit-box-shadow: 21px 26px 44px -4px rgba(0,0,0,0.51);
+    -moz-box-shadow: 21px 26px 44px -4px rgba(0,0,0,0.51);
+    box-shadow: 21px 26px 44px -4px rgba(0,0,0,0.51);
+    border: 2px solid #986a6a;
+    border-radius: 25px;
+    text-align: center;
+    background: rgba(14, 73, 69, 0.48);
+    color: white;
+}
+
+
+
+.kayit-buton-div {
+    width: 360px;
+    height: 45px;
+    position: absolute;
+    bottom: 130px;
+}
+
+.kayit-buton {
+    background-color: rgb(220,220,220);
+    width: 100%;
+    height: 100%;
+    -webkit-box-shadow: 21px 26px 44px -4px rgba(0,0,0,0.51);
+    -moz-box-shadow: 21px 26px 44px -4px rgba(0,0,0,0.51);
+    box-shadow: 21px 26px 44px -4px rgba(0,0,0,0.51);
+    -moz-border-radius: 71px 14px 87px 0px;
+    -webkit-border-radius: 71px 14px 87px 0px;
+    
+    background-color: white;
+    border: 2px solid #986a6a;
+    border-radius: 25px;
+    text-align: center;
+    background: rgba(14, 73, 69, 0.48);
+    color: white;
+    margin-top:80px;
+}
+
+    .kayit-buton:hover {
+        background-color: #555555;
+        color: white;
+    }

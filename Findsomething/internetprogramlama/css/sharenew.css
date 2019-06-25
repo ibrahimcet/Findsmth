@@ -1,0 +1,178 @@
+
+
+.share-genel-div {
+    width: 350px;
+    height: 600px;
+    position: relative;
+    margin: auto;
+    border: 0.5px dashed gray;
+    -webkit-box-shadow: 21px 26px 44px -4px rgba(0,0,0,0.51);
+    -moz-box-shadow: 21px 26px 44px -4px rgba(0,0,0,0.51);
+    box-shadow: 21px 26px 44px -4px rgba(0,0,0,0.51);
+    border-radius: 71px 14px 87px 0px;
+    -moz-border-radius: 71px 14px 87px 0px;
+    -webkit-border-radius: 71px 14px 87px 0px;
+    border: 1px solid #000000;
+    margin-top: 80px;
+}
+
+.share-txt-div {
+    position: relative;
+    margin: auto;
+    width: 90%;
+    height: 90%;
+    margin-top: 20px;
+  
+
+}
+
+.urunadi {
+    width: 100%;
+    height: 50px;
+    -webkit-box-shadow: 21px 26px 44px -4px rgba(0,0,0,0.51);
+    -moz-box-shadow: 21px 26px 44px -4px rgba(0,0,0,0.51);
+    box-shadow: 21px 26px 44px -4px rgba(0,0,0,0.51);
+    border-radius : 25px;
+}
+
+    .urunadi input {
+        width: 100%;
+        height: 100%;
+        text-align: center;
+        font-size: 17px;
+        border: 2px solid #986a6a;
+        border-radius: 25px;
+        text-align: center;
+        background: rgba(14, 73, 69, 0.48);
+        color: white;
+    }
+
+.dropdown {
+    margin-top: 20px;
+    width: 100%;
+    height: 50px;
+    background-color: white;
+    border-radius:25px;
+}
+
+#items12 {
+    width: 100%;
+    height: 100%;
+    font-size: 17px;
+    padding-left: 105px;
+    border: 2px solid #986a6a;
+    border-radius: 25px;
+    text-align: center;
+    background: rgba(14, 73, 69, 0.48);
+    color: white;
+    opacity: 0.9;
+    filter: alpha(opacity=30);
+    
+}
+
+.urunaciklama {
+    margin-top: 20px;
+    width: 100%;
+    height: 200px;
+    
+}
+
+#urunAciklama {
+    width: 100%;
+    height: 100%;
+    font-size: 13px;
+    -webkit-box-shadow: 21px 26px 44px -4px rgba(0,0,0,0.51);
+    -moz-box-shadow: 21px 26px 44px -4px rgba(0,0,0,0.51);
+    box-shadow: 21px 26px 44px -4px rgba(0,0,0,0.51);
+    border: 2px solid #986a6a;
+    border-radius: 25px;
+    text-align: center;
+    background: rgba(14, 73, 69, 0.48);
+    color: white;
+    
+}
+
+.buton {
+    margin-top: 15px;
+    width: 100%;
+    height: 50px;
+  
+}
+
+#btnAdd {
+    width: 100%;
+    height: 100%;
+    border: 2px solid #986a6a;
+    border-radius: 25px;
+    text-align: center;
+    background: rgba(14, 73, 69, 0.48);
+    color: white;
+}
+    .lbtnAdd : hover {
+        background-color: #555555;
+        color: white;
+    }
+#mahalle {
+    -webkit-box-shadow: 21px 26px 44px -4px rgba(0,0,0,0.51);
+    -moz-box-shadow: 21px 26px 44px -4px rgba(0,0,0,0.51);
+    box-shadow: 21px 26px 44px -4px rgba(0,0,0,0.51);
+    border: 2px solid #986a6a;
+    border-radius: 25px;
+    text-align: center;
+    background: rgba(14, 73, 69, 0.48);
+    color: white;
+}
+#cadde {
+    -webkit-box-shadow: 21px 26px 44px -4px rgba(0,0,0,0.51);
+    -moz-box-shadow: 21px 26px 44px -4px rgba(0,0,0,0.51);
+    box-shadow: 21px 26px 44px -4px rgba(0,0,0,0.51);
+    border: 2px solid #986a6a;
+    border-radius: 25px;
+    text-align: center;
+    background: rgba(14, 73, 69, 0.48);
+    color: white;
+}
+#numara {
+    -webkit-box-shadow: 21px 26px 44px -4px rgba(0,0,0,0.51);
+    -moz-box-shadow: 21px 26px 44px -4px rgba(0,0,0,0.51);
+    box-shadow: 21px 26px 44px -4px rgba(0,0,0,0.51);
+    border: 2px solid #986a6a;
+    border-radius: 25px;
+    text-align: center;
+    background: rgba(14, 73, 69, 0.48);
+    color: white;
+}
+#sehir {
+    -webkit-box-shadow: 21px 26px 44px -4px rgba(0,0,0,0.51);
+    -moz-box-shadow: 21px 26px 44px -4px rgba(0,0,0,0.51);
+    box-shadow: 21px 26px 44px -4px rgba(0,0,0,0.51);
+    border: 2px solid #986a6a;
+    border-radius: 25px;
+    text-align: center;
+    background: rgba(14, 73, 69, 0.48);
+    color: white;
+}
+#ilce {
+    -webkit-box-shadow: 21px 26px 44px -4px rgba(0,0,0,0.51);
+    -moz-box-shadow: 21px 26px 44px -4px rgba(0,0,0,0.51);
+    box-shadow: 21px 26px 44px -4px rgba(0,0,0,0.51);
+    border: 2px solid #986a6a;
+    border-radius: 25px;
+    text-align: center;
+    background: rgba(14, 73, 69, 0.48);
+    color: white;
+}
+.login-button {
+    border-bottom: double;
+    border-bottom-color: #555555;
+    -webkit-box-shadow: 21px 28px 44px -12px rgba(0,0,0,0.57);
+    -moz-box-shadow: 21px 28px 44px -12px rgba(0,0,0,0.57);
+    box-shadow: 21px 28px 44px -12px rgba(0,0,0,0.57);
+   
+    color: black;
+}
+
+    .login-button:hover {
+        background-color: #555555;
+        color: white;
+    }

@@ -1,0 +1,78 @@
+﻿body {
+    margin: 0px;
+    padding: 0px;
+}
+
+.kgenel-div {
+    width: 100%;
+    height: 755px;
+    background-color: rgb(240,240,240);
+    position: fixed;
+}
+
+.kayit-genel-div {
+    width: 500px;
+    height: 550px;
+    border: 1px solid gray;
+    border-radius: 5px;
+    position: relative;
+    margin: auto;
+    margin-top: 40px;
+    background-color: white;
+}
+
+.kayit-div {
+    width: 90%;
+    height: 92%;
+    position: absolute;
+    margin: 25px;
+}
+
+.img-logo-div {
+    width: 100%;
+    height: 110px;
+}
+
+.img-logo {
+    height: 100%;
+    width: 180px;
+    margin: auto;
+}
+
+.txt-div {
+    width: 80%;
+    height: 80%;
+    position: absolute;
+    margin: 5px;
+    margin-left: 45px;
+}
+
+.txt-form-div {
+    width: 100%;
+    height: 85%;
+    position: relative;
+}
+
+    .txt-form-div input {
+        width: 100%;
+        height: 38px;
+        font-size: 15px;
+        border: 1px solid black;
+        border-radius: 5px;
+        margin-top: 12px;
+    }
+
+.kayit-buton-div {
+    width: 360px;
+    height: 45px;
+    position: absolute;
+    bottom: 130px;
+}
+
+.kayit-buton {
+    background-color: rgb(220,220,220);
+    width: 100%;
+    height: 100%;
+    border-radius: 8px;
+    border: 1px solid black;
+}

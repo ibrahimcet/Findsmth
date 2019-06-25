@@ -1,0 +1,56 @@
+.genel-div{
+	
+	width: 90%;
+	height: 95%;
+	
+	position: relative;
+	margin: auto;
+}
+.kullanici-div{
+	width: 90%;
+	height: 170px;
+
+	position: relative;
+	margin: auto;
+	border: 0.5px dashed rgba(0,0,0,0.3);
+	margin-top: 20px;
+	border-radius: 7px;
+}
+.kullanici-profil-div{
+	width: 260px;
+	height: 100%;
+	
+}
+.kullanici-image-div{
+	width: 100%;
+	height: 65%;
+	
+}
+.kullanici-image-div img{
+	border: 0.5px dashed rgba(0,0,0,0.2);
+	padding: 5px;
+	float: left;
+	margin-top: 20px;
+	margin-left: 10px;
+	border-radius: 20px;
+	width: 34%;
+	height: 60%;
+}
+.kullanici-name-div{
+	margin-top: 20px;
+	float: left;
+	width: 161px;
+	height: 70px;
+	
+}
+.kullanici-name-div label{
+	margin-left: 10px;
+	margin-top: 10px;
+	font-size: 11px;
+}
+
+.kullanici-puan-div{
+	width: 100%;
+	height: 35%;
+	
+}
